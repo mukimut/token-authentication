@@ -1,7 +1,7 @@
 # This is README file
 
 This is a project for School Management System. This is the API part. 
-For running this project Clone is form the repository and run
+For running this project Clone it form the repository and run
 
 `npm install`
 

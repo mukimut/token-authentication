@@ -4,7 +4,7 @@
   "description": "This is a project for School Management System. This is the API part.  For running this project Clone is form the repository and run `npm install` This will install all the packages.",
   "main": "app.js",
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.2",
     "cookie-parser": "^1.4.3",
     "csurf": "^1.9.0",
